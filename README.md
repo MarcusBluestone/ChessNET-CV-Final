@@ -1,4 +1,6 @@
 # ChessNET
+[`final_paper.pdf`](final_paper.pdf) contains the final version of our paper
+
 A computer vision application that identifies pieces on a chess board from real-life photos.
 
 This is a computer vision application that identifies pieces on a chess board from real-life photos and converts it to a digital format, saved in Fenn nortation. Note that the files are not fully organized into a proper package. Our paper, which describes the work in full detail, is attached as final_paper.pdf. 
